@@ -48,11 +48,4 @@ setup(
             'pinhole = pinhole.run:main'
         },
     },
-
-    classifiers=[
-        'Development Status :: 1 - Beta',
-        'License :: OSI Approved :: MIT License',
-        'Operating System :: Linux',
-        'Programming Language :: Python :: 3.6',
-    ],
 )

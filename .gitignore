@@ -5,6 +5,7 @@ docs/_build
 *egg-info
 .tox
 .coverage
+.pypirc
 venv
 dist
 build
